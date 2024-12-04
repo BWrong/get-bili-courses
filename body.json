@@ -1,0 +1,1449 @@
+{
+  "id": "1750814268799979520",
+  "chapterInfoDTOS": [
+    {
+      "chapterName": "前言",
+      "classInfoDTOS": [
+        {
+          "className": "前言闲聊和课程说明",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "15:28",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=256068987&p=1&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "零基础微服务架构理论入门",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "20:31",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168669&p=2&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "第二季Boot和Cloud版本选型",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "17:8",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168684&p=3&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Cloud组件停更说明",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "18:33",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168635&p=4&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "父工程Project空间新建",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "12:34",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168558&p=5&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "父工程pom文件",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "6:6",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168618&p=6&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "复习DependencyManagement和Dependencies",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "7:45",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168688&p=7&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "支付模块构建(上)",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "15:5",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168864&p=8&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "支付模块构建(中)",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "35:1",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169204&p=9&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "支付模块构建(下)",
+          "id": null,
+          "classType": 1,
+          "sort": 9,
+          "defaultPrefix": "课时10",
+          "videoLength": "9:45",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168853&p=10&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "热部署Devtools",
+          "id": null,
+          "classType": 1,
+          "sort": 10,
+          "defaultPrefix": "课时11",
+          "videoLength": "6:35",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168818&p=11&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "消费者订单模块(上)",
+          "id": null,
+          "classType": 1,
+          "sort": 11,
+          "defaultPrefix": "课时12",
+          "videoLength": "20:20",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169110&p=12&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "消费者订单模块(下)",
+          "id": null,
+          "classType": 1,
+          "sort": 12,
+          "defaultPrefix": "课时13",
+          "videoLength": "10:21",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168980&p=13&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "工程重构",
+          "id": null,
+          "classType": 1,
+          "sort": 13,
+          "defaultPrefix": "课时14",
+          "videoLength": "9:40",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168997&p=14&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节1",
+      "id": null,
+      "sort": 0
+    },
+    {
+      "chapterName": "Eureka",
+      "classInfoDTOS": [
+        {
+          "className": "Eureka基础知识",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "11:26",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168994&p=15&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "EurekaServer服务端安装",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "9:10",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169196&p=16&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "支付微服务8001入驻进eurekaServer",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "9:17",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169171&p=17&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "订单微服务80入驻进eurekaServer",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "6:26",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169140&p=18&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Eureka集群原理说明",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "6:51",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169200&p=19&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Eureka集群环境构建",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "9:14",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169222&p=20&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "订单支付两微服务注册进Eureka集群",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "5:34",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169413&p=21&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "支付微服务集群配置",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "21:6",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169443&p=22&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "actuator微服务信息完善",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "7:48",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169543&p=23&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "服务发现Discovery",
+          "id": null,
+          "classType": 1,
+          "sort": 9,
+          "defaultPrefix": "课时10",
+          "videoLength": "11:56",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169575&p=24&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Eureka自我保护理论知识",
+          "id": null,
+          "classType": 1,
+          "sort": 10,
+          "defaultPrefix": "课时11",
+          "videoLength": "8:56",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169637&p=25&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "怎么禁止自我保护",
+          "id": null,
+          "classType": 1,
+          "sort": 11,
+          "defaultPrefix": "课时12",
+          "videoLength": "10:6",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169690&p=26&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Eureka停更说明",
+          "id": null,
+          "classType": 1,
+          "sort": 12,
+          "defaultPrefix": "课时13",
+          "videoLength": "3:2",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169752&p=27&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "支付服务注册进zookeeper",
+          "id": null,
+          "classType": 1,
+          "sort": 13,
+          "defaultPrefix": "课时14",
+          "videoLength": "18:43",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169769&p=28&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "临时还是持久节点",
+          "id": null,
+          "classType": 1,
+          "sort": 14,
+          "defaultPrefix": "课时15",
+          "videoLength": "5:41",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169875&p=29&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "订单服务注册进zookeeper",
+          "id": null,
+          "classType": 1,
+          "sort": 15,
+          "defaultPrefix": "课时16",
+          "videoLength": "10:35",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169897&p=30&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节2",
+      "id": null,
+      "sort": 1
+    },
+    {
+      "chapterName": "Consul",
+      "classInfoDTOS": [
+        {
+          "className": "Consul简介",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "5:48",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169948&p=31&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "安装并运行Consul",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "3:47",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169982&p=32&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "服务提供者注册进Consul",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "7:1",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170018&p=33&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "服务消费者注册进Consul",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "6:11",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170063&p=34&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "三个注册中心异同点",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "10:43",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170090&p=35&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节3",
+      "id": null,
+      "sort": 2
+    },
+    {
+      "chapterName": "Ribbon",
+      "classInfoDTOS": [
+        {
+          "className": "Ribbon入门介绍",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "9:15",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170131&p=36&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Ribbon的负载均衡和Rest调用",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "13:14",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170165&p=37&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Ribbon默认自带的负载规则",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "4:2",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170223&p=38&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Ribbon负载规则替换",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "6:20",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170242&p=39&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Ribbon默认负载轮训算法原理",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "8:48",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170274&p=40&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "RoundRobinRule源码分析",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "12:39",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170305&p=41&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Ribbon之手写轮询算法",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "27:33",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170364&p=42&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节4",
+      "id": null,
+      "sort": 3
+    },
+    {
+      "chapterName": "OpenFeign",
+      "classInfoDTOS": [
+        {
+          "className": "OpenFeign是什么",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "8:42",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170528&p=43&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "OpenFeign服务调用",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "16:24",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170562&p=44&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "OpenFeign超时控制",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "10:53",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170645&p=45&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "OpenFeign日志增强",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "4:46",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170684&p=46&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节5",
+      "id": null,
+      "sort": 4
+    },
+    {
+      "chapterName": "Hystrix",
+      "classInfoDTOS": [
+        {
+          "className": "Hystrix是什么",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "5:56",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170715&p=47&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix停更进维",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "5:3",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170742&p=48&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix的服务降级熔断限流概念初讲",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "7:0",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170773&p=49&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix支付微服务构建",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "14:58",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170800&p=50&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "JMeter高并发压测后卡顿",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "8:10",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170872&p=51&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "订单微服务调用支付服务出现卡顿",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "12:48",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170905&p=52&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "降级容错解决的维度要求",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "4:28",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170967&p=53&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之服务降级支付侧fallback",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "12:13",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170988&p=54&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之服务降级订单侧fallback",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "12:6",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171053&p=55&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之全局服务降级DefaultProperties",
+          "id": null,
+          "classType": 1,
+          "sort": 9,
+          "defaultPrefix": "课时10",
+          "videoLength": "7:35",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171120&p=56&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之通配服务降级FeignFallback",
+          "id": null,
+          "classType": 1,
+          "sort": 10,
+          "defaultPrefix": "课时11",
+          "videoLength": "10:48",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171160&p=57&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之服务熔断理论",
+          "id": null,
+          "classType": 1,
+          "sort": 11,
+          "defaultPrefix": "课时12",
+          "videoLength": "8:36",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171194&p=58&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之服务熔断案例(上)",
+          "id": null,
+          "classType": 1,
+          "sort": 12,
+          "defaultPrefix": "课时13",
+          "videoLength": "11:59",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171225&p=59&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之服务熔断案例(下)",
+          "id": null,
+          "classType": 1,
+          "sort": 13,
+          "defaultPrefix": "课时14",
+          "videoLength": "5:57",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171295&p=60&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix之服务熔断总结",
+          "id": null,
+          "classType": 1,
+          "sort": 14,
+          "defaultPrefix": "课时15",
+          "videoLength": "6:25",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171426&p=61&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix工作流程最后总结",
+          "id": null,
+          "classType": 1,
+          "sort": 15,
+          "defaultPrefix": "课时16",
+          "videoLength": "9:9",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171464&p=62&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix图形化Dashboard搭建",
+          "id": null,
+          "classType": 1,
+          "sort": 16,
+          "defaultPrefix": "课时17",
+          "videoLength": "5:39",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171496&p=63&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Hystrix图形化Dashboard监控实战",
+          "id": null,
+          "classType": 1,
+          "sort": 17,
+          "defaultPrefix": "课时18",
+          "videoLength": "9:52",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171517&p=64&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节6",
+      "id": null,
+      "sort": 5
+    },
+    {
+      "chapterName": "GateWay",
+      "classInfoDTOS": [
+        {
+          "className": "GateWay和Zuul课程说明",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "4:45",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171600&p=65&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "GateWay是什么",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "9:56",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171615&p=66&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "GateWay非阻塞异步模型",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "8:1",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171654&p=67&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Gateway工作流程",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "6:6",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171706&p=68&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Gateway9527搭建",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "11:59",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171762&p=69&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Gateway配置路由的两种方式",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "11:59",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171828&p=70&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "GateWay配置动态路由",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "7:21",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171902&p=71&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "GateWay常用的Predicate",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "20:8",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171942&p=72&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "GateWay的Filter",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "12:10",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172066&p=73&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节7",
+      "id": null,
+      "sort": 6
+    },
+    {
+      "chapterName": "Config",
+      "classInfoDTOS": [
+        {
+          "className": "Config分布式配置中心介绍",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "10:50",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172129&p=74&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Config配置总控中心搭建",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "15:20",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172164&p=75&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Config客户端配置与测试",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "16:47",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172254&p=76&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Config动态刷新之手动版",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "12:50",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172353&p=77&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节8",
+      "id": null,
+      "sort": 7
+    },
+    {
+      "chapterName": "Bus消息总线",
+      "classInfoDTOS": [
+        {
+          "className": "Bus消息总线是什么",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "7:55",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172409&p=78&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Bus之RabbitMQ环境配置",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "3:56",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172483&p=79&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Bus动态刷新全局广播的设计思想和选型",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "7:48",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172512&p=80&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Bus动态刷新全局广播配置实现",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "14:13",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172573&p=81&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Bus动态刷新定点通知",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "5:41",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172679&p=82&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节9",
+      "id": null,
+      "sort": 8
+    },
+    {
+      "chapterName": "Stream",
+      "classInfoDTOS": [
+        {
+          "className": "Stream为什么被引入",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "7:51",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172711&p=83&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream是什么及Binder介绍",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "6:20",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172753&p=84&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream的设计思想",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "7:19",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172790&p=85&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream编码常用注解简介",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "5:3",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172820&p=86&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream消息驱动之生产者",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "17:4",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172851&p=87&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream消息驱动之消费者",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "11:1",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172975&p=88&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream之消息重复消费",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "8:27",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173058&p=89&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream之group解决消息重复消费",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "7:56",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173086&p=90&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Stream之消息持久化",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "3:56",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173121&p=91&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节10",
+      "id": null,
+      "sort": 9
+    },
+    {
+      "chapterName": "Sleuth",
+      "classInfoDTOS": [
+        {
+          "className": "Sleuth是什么",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "4:25",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173155&p=92&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sleuth之zipkin搭建安装",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "6:13",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173196&p=93&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sleuth链路监控展现",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "8:28",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173229&p=94&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Cloud Alibaba简介",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "16:26",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173303&p=95&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节11",
+      "id": null,
+      "sort": 10
+    },
+    {
+      "chapterName": "Nacos",
+      "classInfoDTOS": [
+        {
+          "className": "Nacos简介和下载",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "7:16",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173413&p=96&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos安装",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "3:3",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173456&p=97&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之服务提供者注册",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "17:27",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173478&p=98&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之服务消费者注册和负载",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "10:11",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173584&p=99&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos服务注册中心对比提升",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "6:52",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173650&p=100&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之服务配置中心",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "20:2",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173679&p=101&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之命名空间分组和DataID三者关系",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "6:6",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173798&p=102&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之DataID配置",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "6:30",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173818&p=103&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之Group分组方案",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "4:49",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173849&p=104&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之Namespace空间方案",
+          "id": null,
+          "classType": 1,
+          "sort": 9,
+          "defaultPrefix": "课时10",
+          "videoLength": "9:24",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173866&p=105&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos集群_架构说明",
+          "id": null,
+          "classType": 1,
+          "sort": 10,
+          "defaultPrefix": "课时11",
+          "videoLength": "11:28",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173911&p=106&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos持久化切换配置",
+          "id": null,
+          "classType": 1,
+          "sort": 11,
+          "defaultPrefix": "课时12",
+          "videoLength": "8:45",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173977&p=107&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos之Linux版本安装",
+          "id": null,
+          "classType": 1,
+          "sort": 12,
+          "defaultPrefix": "课时13",
+          "videoLength": "5:16",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174017&p=108&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos集群配置(上)",
+          "id": null,
+          "classType": 1,
+          "sort": 13,
+          "defaultPrefix": "课时14",
+          "videoLength": "19:34",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174178&p=109&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Nacos集群配置(下)",
+          "id": null,
+          "classType": 1,
+          "sort": 14,
+          "defaultPrefix": "课时15",
+          "videoLength": "12:25",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174270&p=110&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节12",
+      "id": null,
+      "sort": 11
+    },
+    {
+      "chapterName": "Sentinel",
+      "classInfoDTOS": [
+        {
+          "className": "Sentinel是什么",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "7:3",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174326&p=111&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel下载安装运行",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "6:13",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174355&p=112&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel初始化监控",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "7:54",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174384&p=113&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel流控规则简介",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "3:4",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174437&p=114&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel流控-QPS直接失败",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "6:27",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174452&p=115&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel流控-线程数直接失败",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "6:7",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174488&p=116&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel流控-关联",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "7:14",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174522&p=117&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel流控-预热",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "8:14",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174562&p=118&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel流控-排队等待",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "5:32",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174614&p=119&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel降级简介",
+          "id": null,
+          "classType": 1,
+          "sort": 9,
+          "defaultPrefix": "课时10",
+          "videoLength": "4:48",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174655&p=120&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel降级-RT",
+          "id": null,
+          "classType": 1,
+          "sort": 10,
+          "defaultPrefix": "课时11",
+          "videoLength": "7:29",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174683&p=121&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel降级-异常比例",
+          "id": null,
+          "classType": 1,
+          "sort": 11,
+          "defaultPrefix": "课时12",
+          "videoLength": "7:19",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174719&p=122&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel降级-异常数",
+          "id": null,
+          "classType": 1,
+          "sort": 12,
+          "defaultPrefix": "课时13",
+          "videoLength": "4:16",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174758&p=123&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel热点key(上)",
+          "id": null,
+          "classType": 1,
+          "sort": 13,
+          "defaultPrefix": "课时14",
+          "videoLength": "17:13",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174798&p=124&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel热点key(下)",
+          "id": null,
+          "classType": 1,
+          "sort": 14,
+          "defaultPrefix": "课时15",
+          "videoLength": "10:59",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174884&p=125&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel系统规则",
+          "id": null,
+          "classType": 1,
+          "sort": 15,
+          "defaultPrefix": "课时16",
+          "videoLength": "7:38",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174931&p=126&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "SentinelResource配置(上)",
+          "id": null,
+          "classType": 1,
+          "sort": 16,
+          "defaultPrefix": "课时17",
+          "videoLength": "10:47",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174979&p=127&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "SentinelResource配置(中)",
+          "id": null,
+          "classType": 1,
+          "sort": 17,
+          "defaultPrefix": "课时18",
+          "videoLength": "7:47",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175066&p=128&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "SentinelResource配置(下)",
+          "id": null,
+          "classType": 1,
+          "sort": 18,
+          "defaultPrefix": "课时19",
+          "videoLength": "4:16",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175099&p=129&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel服务熔断Ribbon环境预说",
+          "id": null,
+          "classType": 1,
+          "sort": 19,
+          "defaultPrefix": "课时20",
+          "videoLength": "8:58",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175123&p=130&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel服务熔断无配置",
+          "id": null,
+          "classType": 1,
+          "sort": 20,
+          "defaultPrefix": "课时21",
+          "videoLength": "4:22",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175185&p=131&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel服务熔断只配置fallback",
+          "id": null,
+          "classType": 1,
+          "sort": 21,
+          "defaultPrefix": "课时22",
+          "videoLength": "4:12",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175211&p=132&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel服务熔断只配置blockHandler",
+          "id": null,
+          "classType": 1,
+          "sort": 22,
+          "defaultPrefix": "课时23",
+          "videoLength": "4:10",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175236&p=133&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel服务熔断fallback和blockHandler都配置",
+          "id": null,
+          "classType": 1,
+          "sort": 23,
+          "defaultPrefix": "课时24",
+          "videoLength": "4:47",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175275&p=134&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel服务熔断exceptionsToIgnore",
+          "id": null,
+          "classType": 1,
+          "sort": 24,
+          "defaultPrefix": "课时25",
+          "videoLength": "2:34",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175308&p=135&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel服务熔断OpenFeign",
+          "id": null,
+          "classType": 1,
+          "sort": 25,
+          "defaultPrefix": "课时26",
+          "videoLength": "9:50",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175322&p=136&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Sentinel持久化规则",
+          "id": null,
+          "classType": 1,
+          "sort": 26,
+          "defaultPrefix": "课时27",
+          "videoLength": "10:31",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175371&p=137&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "分布式事务问题由来",
+          "id": null,
+          "classType": 1,
+          "sort": 27,
+          "defaultPrefix": "课时28",
+          "videoLength": "8:28",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175419&p=138&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节13",
+      "id": null,
+      "sort": 12
+    },
+    {
+      "chapterName": "Seata",
+      "classInfoDTOS": [
+        {
+          "className": "Seata术语",
+          "id": null,
+          "classType": 1,
+          "sort": 0,
+          "defaultPrefix": "课时1",
+          "videoLength": "13:28",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175460&p=139&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata-Server安装",
+          "id": null,
+          "classType": 1,
+          "sort": 1,
+          "defaultPrefix": "课时2",
+          "videoLength": "13:32",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175522&p=140&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata业务数据库准备",
+          "id": null,
+          "classType": 1,
+          "sort": 2,
+          "defaultPrefix": "课时3",
+          "videoLength": "9:27",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175594&p=141&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata之Order-Module配置搭建",
+          "id": null,
+          "classType": 1,
+          "sort": 3,
+          "defaultPrefix": "课时4",
+          "videoLength": "10:59",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175627&p=142&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata之Order-Module撸码(上)",
+          "id": null,
+          "classType": 1,
+          "sort": 4,
+          "defaultPrefix": "课时5",
+          "videoLength": "18:36",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175675&p=143&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata之Order-Module撸码(下)",
+          "id": null,
+          "classType": 1,
+          "sort": 5,
+          "defaultPrefix": "课时6",
+          "videoLength": "10:5",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175767&p=144&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata之Storage-Module说明",
+          "id": null,
+          "classType": 1,
+          "sort": 6,
+          "defaultPrefix": "课时7",
+          "videoLength": "9:20",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175836&p=145&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata之Account-Module说明",
+          "id": null,
+          "classType": 1,
+          "sort": 7,
+          "defaultPrefix": "课时8",
+          "videoLength": "3:14",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175880&p=146&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata之@GlobalTransactional验证",
+          "id": null,
+          "classType": 1,
+          "sort": 8,
+          "defaultPrefix": "课时9",
+          "videoLength": "13:30",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175898&p=147&high_quality=1&danmaku=0"
+        },
+        {
+          "className": "Seata之原理简介",
+          "id": null,
+          "classType": 1,
+          "sort": 9,
+          "defaultPrefix": "课时10",
+          "videoLength": "33:46",
+          "videoUrl": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175977&p=148&high_quality=1&danmaku=0"
+        }
+      ],
+      "defaultPrefix": "章节14",
+      "id": null,
+      "sort": 13
+    }
+  ]
+}

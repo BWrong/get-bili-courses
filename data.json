@@ -1,0 +1,557 @@
+[
+  {
+    "name": "TypeScript学习指南",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=1150250586&p=1&high_quality=1&danmaku=0",
+    "time": "4:23",
+    "chapterName": "简介"
+  },
+  {
+    "name": "01-01-什么是TypeScript",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482534880&p=2&high_quality=1&danmaku=0",
+    "time": "3:33"
+  },
+  {
+    "name": "01-02-JS、ES及TS的关系",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482535058&p=3&high_quality=1&danmaku=0",
+    "time": "3:47"
+  },
+  {
+    "name": "01-03-TypeScript的竞争者有哪些",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482534276&p=4&high_quality=1&danmaku=0",
+    "time": "4:3"
+  },
+  {
+    "name": "02-01-发现问题",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482534469&p=5&high_quality=1&danmaku=0",
+    "time": "3:23",
+    "chapterName": "如何使用"
+  },
+  {
+    "name": "02-02-静态类型检查",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482534675&p=6&high_quality=1&danmaku=0",
+    "time": "1:54"
+  },
+  {
+    "name": "02-03-非异常故障",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482534752&p=7&high_quality=1&danmaku=0",
+    "time": "5:59"
+  },
+  {
+    "name": "02-04-使用工具",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482535223&p=8&high_quality=1&danmaku=0",
+    "time": "9:55"
+  },
+  {
+    "name": "02-05-优化编译",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482535409&p=9&high_quality=1&danmaku=0",
+    "time": "8:26"
+  },
+  {
+    "name": "02-06-显式类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=484205013&p=10&high_quality=1&danmaku=0",
+    "time": "5:25"
+  },
+  {
+    "name": "02-07-降级编译",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482535665&p=11&high_quality=1&danmaku=0",
+    "time": "3:50"
+  },
+  {
+    "name": "02-08-严格模式",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482535732&p=12&high_quality=1&danmaku=0",
+    "time": "6:39"
+  },
+  {
+    "name": "03-01-基元类型string、number及boolean",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482535918&p=13&high_quality=1&danmaku=0",
+    "time": "4:53",
+    "chapterName": "类型基础"
+  },
+  {
+    "name": "03-02-数组",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536074&p=14&high_quality=1&danmaku=0",
+    "time": "2:51"
+  },
+  {
+    "name": "03-03-any",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536163&p=15&high_quality=1&danmaku=0",
+    "time": "3:14"
+  },
+  {
+    "name": "03-04-变量上的类型注释",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536216&p=16&high_quality=1&danmaku=0",
+    "time": "3:43"
+  },
+  {
+    "name": "03-05-函数",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536294&p=17&high_quality=1&danmaku=0",
+    "time": "6:48"
+  },
+  {
+    "name": "03-06-对象类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536421&p=18&high_quality=1&danmaku=0",
+    "time": "8:19"
+  },
+  {
+    "name": "03-07-联合类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536553&p=19&high_quality=1&danmaku=0",
+    "time": "10:35"
+  },
+  {
+    "name": "03-08-类型别名",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536726&p=20&high_quality=1&danmaku=0",
+    "time": "6:14"
+  },
+  {
+    "name": "03-09-接口",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482536864&p=21&high_quality=1&danmaku=0",
+    "time": "10:7"
+  },
+  {
+    "name": "03-10-类型断言",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482537013&p=22&high_quality=1&danmaku=0",
+    "time": "4:16"
+  },
+  {
+    "name": "03-11-文字类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482537125&p=23&high_quality=1&danmaku=0",
+    "time": "12:12"
+  },
+  {
+    "name": "03-12-null和undefined类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482537293&p=24&high_quality=1&danmaku=0",
+    "time": "5:15"
+  },
+  {
+    "name": "03-13-枚举",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482537383&p=25&high_quality=1&danmaku=0",
+    "time": "3:15"
+  },
+  {
+    "name": "03-14-bigint和symbol",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482537471&p=26&high_quality=1&danmaku=0",
+    "time": "3:47"
+  },
+  {
+    "name": "04-01-typeof类型守卫",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482537568&p=27&high_quality=1&danmaku=0",
+    "time": "10:32",
+    "chapterName": "类型进阶"
+  },
+  {
+    "name": "04-02-真值缩小",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482537954&p=28&high_quality=1&danmaku=0",
+    "time": "8:42"
+  },
+  {
+    "name": "04-03-等值缩小",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482538155&p=29&high_quality=1&danmaku=0",
+    "time": "7:55"
+  },
+  {
+    "name": "04-04-in操作符缩小",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482538252&p=30&high_quality=1&danmaku=0",
+    "time": "4:36"
+  },
+  {
+    "name": "04-05-instance操作符缩小",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482538332&p=31&high_quality=1&danmaku=0",
+    "time": "2:51"
+  },
+  {
+    "name": "04-06-分配缩小",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482538422&p=32&high_quality=1&danmaku=0",
+    "time": "3:19"
+  },
+  {
+    "name": "04-07-控制流分析",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482538511&p=33&high_quality=1&danmaku=0",
+    "time": "4:27"
+  },
+  {
+    "name": "04-08-使用类型谓词",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482538649&p=34&high_quality=1&danmaku=0",
+    "time": "9:56"
+  },
+  {
+    "name": "04-09-受歧视的unions",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482538857&p=35&high_quality=1&danmaku=0",
+    "time": "9:33"
+  },
+  {
+    "name": "04-10-never类型与穷尽性检查",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482539057&p=36&high_quality=1&danmaku=0",
+    "time": "4:28"
+  },
+  {
+    "name": "05-01-函数类型表达式",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482539167&p=37&high_quality=1&danmaku=0",
+    "time": "5:30",
+    "chapterName": "函数"
+  },
+  {
+    "name": "05-02-调用签名",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482539312&p=38&high_quality=1&danmaku=0",
+    "time": "5:38"
+  },
+  {
+    "name": "05-03-构造签名",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482539453&p=39&high_quality=1&danmaku=0",
+    "time": "7:10"
+  },
+  {
+    "name": "05-04-泛型函数-类型推断",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482539601&p=40&high_quality=1&danmaku=0",
+    "time": "12:48"
+  },
+  {
+    "name": "05-05-泛型函数-限制条件",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482539914&p=41&high_quality=1&danmaku=0",
+    "time": "6:25"
+  },
+  {
+    "name": "05-06-泛型函数-使用受限值",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482540089&p=42&high_quality=1&danmaku=0",
+    "time": "5:26"
+  },
+  {
+    "name": "05-07-泛型函数-指定类型参数",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482540228&p=43&high_quality=1&danmaku=0",
+    "time": "5:17"
+  },
+  {
+    "name": "05-08-泛型函数-编写优秀通用函数的准则",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482540349&p=44&high_quality=1&danmaku=0",
+    "time": "8:26"
+  },
+  {
+    "name": "05-09-函数的可选参数",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482540520&p=45&high_quality=1&danmaku=0",
+    "time": "5:7"
+  },
+  {
+    "name": "05-10-回调中的可选参数",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482540653&p=46&high_quality=1&danmaku=0",
+    "time": "7:23"
+  },
+  {
+    "name": "05-11-函数重载-基本语法",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482540796&p=47&high_quality=1&danmaku=0",
+    "time": "7:48"
+  },
+  {
+    "name": "05-12-函数重载-重载签名和实现签名",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482541002&p=48&high_quality=1&danmaku=0",
+    "time": "5:29"
+  },
+  {
+    "name": "05-13-函数重载-编写好的重载",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482541110&p=49&high_quality=1&danmaku=0",
+    "time": "4:31"
+  },
+  {
+    "name": "05-14-函数重载-函数内this的声明",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482541219&p=50&high_quality=1&danmaku=0",
+    "time": "7:8"
+  },
+  {
+    "name": "05-15-void-object-unknown-never-Function",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482541463&p=51&high_quality=1&danmaku=0",
+    "time": "5:10"
+  },
+  {
+    "name": "05-16-参数展开运算符-形参展开",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482541794&p=52&high_quality=1&danmaku=0",
+    "time": "4:24"
+  },
+  {
+    "name": "05-17-参数展开运算符-实参展开",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482541918&p=53&high_quality=1&danmaku=0",
+    "time": "4:47"
+  },
+  {
+    "name": "05-18-参数解构",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482542055&p=54&high_quality=1&danmaku=0",
+    "time": "3:49"
+  },
+  {
+    "name": "05-19-返回void类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482542174&p=55&high_quality=1&danmaku=0",
+    "time": "4:47"
+  },
+  {
+    "name": "06-01-认识对象类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482542281&p=56&high_quality=1&danmaku=0",
+    "time": "5:2",
+    "chapterName": "对象"
+  },
+  {
+    "name": "06-02-可选属性",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482542387&p=57&high_quality=1&danmaku=0",
+    "time": "10:1"
+  },
+  {
+    "name": "06-03-只读属性",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482542544&p=58&high_quality=1&danmaku=0",
+    "time": "8:51"
+  },
+  {
+    "name": "06-04-索引签名",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482542735&p=59&high_quality=1&danmaku=0",
+    "time": "10:22"
+  },
+  {
+    "name": "06-05-扩展类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482542902&p=60&high_quality=1&danmaku=0",
+    "time": "8:22"
+  },
+  {
+    "name": "06-06-交叉类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482543474&p=61&high_quality=1&danmaku=0",
+    "time": "5:12"
+  },
+  {
+    "name": "06-07-处理冲突",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482543598&p=62&high_quality=1&danmaku=0",
+    "time": "4:16"
+  },
+  {
+    "name": "06-08-泛型对象类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482543693&p=63&high_quality=1&danmaku=0",
+    "time": "16:44"
+  },
+  {
+    "name": "07-01-从类型中创建类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482543983&p=64&high_quality=1&danmaku=0",
+    "time": "1:51",
+    "chapterName": "泛型"
+  },
+  {
+    "name": "07-02-泛型-HelloWorld",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482544068&p=65&high_quality=1&danmaku=0",
+    "time": "5:12"
+  },
+  {
+    "name": "07-03-泛型-使用通用类型变量",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482544240&p=66&high_quality=1&danmaku=0",
+    "time": "6:38"
+  },
+  {
+    "name": "07-04-泛型-泛型类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482544362&p=67&high_quality=1&danmaku=0",
+    "time": "6:38"
+  },
+  {
+    "name": "07-05-泛型-泛型类",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482544479&p=68&high_quality=1&danmaku=0",
+    "time": "5:31"
+  },
+  {
+    "name": "07-06-泛型-泛型约束",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482544580&p=69&high_quality=1&danmaku=0",
+    "time": "3:56"
+  },
+  {
+    "name": "07-07-泛型-在泛型约束中使用类型参数",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482544692&p=70&high_quality=1&danmaku=0",
+    "time": "4:5"
+  },
+  {
+    "name": "07-08-泛型-在泛型中使用类类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482544789&p=71&high_quality=1&danmaku=0",
+    "time": "7:50"
+  },
+  {
+    "name": "07-09-keyof类型操作符",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482545007&p=72&high_quality=1&danmaku=0",
+    "time": "5:48"
+  },
+  {
+    "name": "07-10-typeof类型操作符",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482545401&p=73&high_quality=1&danmaku=0",
+    "time": "7:20"
+  },
+  {
+    "name": "07-11-索引访问类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482545528&p=74&high_quality=1&danmaku=0",
+    "time": "13:23"
+  },
+  {
+    "name": "07-12-条件类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482545865&p=75&high_quality=1&danmaku=0",
+    "time": "9:53"
+  },
+  {
+    "name": "07-13-条件类型约束",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482546132&p=76&high_quality=1&danmaku=0",
+    "time": "8:19"
+  },
+  {
+    "name": "07-14-在条件类型内进行推理",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482546363&p=77&high_quality=1&danmaku=0",
+    "time": "11:51"
+  },
+  {
+    "name": "07-15-分布式条件类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482546775&p=78&high_quality=1&danmaku=0",
+    "time": "6:57"
+  },
+  {
+    "name": "08-01-类成员",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482546936&p=79&high_quality=1&danmaku=0",
+    "time": "0:52",
+    "chapterName": "类"
+  },
+  {
+    "name": "08-02-类属性",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482546997&p=80&high_quality=1&danmaku=0",
+    "time": "8:51"
+  },
+  {
+    "name": "08-03-readonly",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482547152&p=81&high_quality=1&danmaku=0",
+    "time": "6:6"
+  },
+  {
+    "name": "08-04-构造器",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482547271&p=82&high_quality=1&danmaku=0",
+    "time": "4:50"
+  },
+  {
+    "name": "08-05-方法",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482547403&p=83&high_quality=1&danmaku=0",
+    "time": "4:38"
+  },
+  {
+    "name": "08-06-getters-setters",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482547495&p=84&high_quality=1&danmaku=0",
+    "time": "14:19"
+  },
+  {
+    "name": "08-07-索引签名",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482547720&p=85&high_quality=1&danmaku=0",
+    "time": "4:41"
+  },
+  {
+    "name": "08-08-继承-implements子句",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482547818&p=86&high_quality=1&danmaku=0",
+    "time": "9:28"
+  },
+  {
+    "name": "08-09-继承-extends子句",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548031&p=87&high_quality=1&danmaku=0",
+    "time": "3:15"
+  },
+  {
+    "name": "08-10-重写方法",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548120&p=88&high_quality=1&danmaku=0",
+    "time": "7:10"
+  },
+  {
+    "name": "08-11-初始化顺序",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548289&p=89&high_quality=1&danmaku=0",
+    "time": "5:28"
+  },
+  {
+    "name": "08-12-继承内置类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548427&p=90&high_quality=1&danmaku=0",
+    "time": "7:25"
+  },
+  {
+    "name": "08-13-成员的可见性-public",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548522&p=91&high_quality=1&danmaku=0",
+    "time": "4:50"
+  },
+  {
+    "name": "08-14-成员的可见性-protected",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548622&p=92&high_quality=1&danmaku=0",
+    "time": "4:43"
+  },
+  {
+    "name": "08-15-成员的可见性-private",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548688&p=93&high_quality=1&danmaku=0",
+    "time": "4:40"
+  },
+  {
+    "name": "08-16-静态成员",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548754&p=94&high_quality=1&danmaku=0",
+    "time": "7:10"
+  },
+  {
+    "name": "08-17-类里的 static 区块",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548827&p=95&high_quality=1&danmaku=0",
+    "time": "4:20"
+  },
+  {
+    "name": "08-18-泛型类",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548898&p=96&high_quality=1&danmaku=0",
+    "time": "4:19"
+  },
+  {
+    "name": "08-19-类运行时中的this",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482548960&p=97&high_quality=1&danmaku=0",
+    "time": "9:22"
+  },
+  {
+    "name": "08-20-this类型",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482549062&p=98&high_quality=1&danmaku=0",
+    "time": "7:48"
+  },
+  {
+    "name": "08-21-基于类型守卫的this",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482549133&p=99&high_quality=1&danmaku=0",
+    "time": "12:49"
+  },
+  {
+    "name": "08-22-参数属性",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482534273&p=100&high_quality=1&danmaku=0",
+    "time": "4:44"
+  },
+  {
+    "name": "08-23-类表达式",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552235&p=101&high_quality=1&danmaku=0",
+    "time": "2:58"
+  },
+  {
+    "name": "08-24-抽象类和成员",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552312&p=102&high_quality=1&danmaku=0",
+    "time": "6:57"
+  },
+  {
+    "name": "08-25-类之间的关系",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552369&p=103&high_quality=1&danmaku=0",
+    "time": "7:30"
+  },
+  {
+    "name": "09-01-认识模块",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552430&p=104&high_quality=1&danmaku=0",
+    "time": "2:12",
+    "chapterName": "模块"
+  },
+  {
+    "name": "09-02-ES模块语法",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552510&p=105&high_quality=1&danmaku=0",
+    "time": "7:36"
+  },
+  {
+    "name": "09-03-额外的导入语法",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552638&p=106&high_quality=1&danmaku=0",
+    "time": "4:34"
+  },
+  {
+    "name": "09-04-TS特定的ES模块语法",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552689&p=107&high_quality=1&danmaku=0",
+    "time": "6:45"
+  },
+  {
+    "name": "09-05-CommonJS语法",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552900&p=108&high_quality=1&danmaku=0",
+    "time": "4:5"
+  },
+  {
+    "name": "10-01-基础篇杀青",
+    "url": "//player.bilibili.com/player.html?aid=978089815&bvid=BV1H44y157gq&cid=482552941&p=109&high_quality=1&danmaku=0",
+    "time": "0:56",
+    "chapterName": "完结"
+  }
+]

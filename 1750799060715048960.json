@@ -1,0 +1,607 @@
+[{
+	"name": "前言闲聊和课程说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=256068987&p=1&high_quality=1&danmaku=0",
+	"time": "15:28",
+  	"chapterName": "前言"
+}, {
+	"name": "零基础微服务架构理论入门",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168669&p=2&high_quality=1&danmaku=0",
+	"time": "20:31"
+}, {
+	"name": "第二季Boot和Cloud版本选型",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168684&p=3&high_quality=1&danmaku=0",
+	"time": "17:8"
+}, {
+	"name": "Cloud组件停更说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168635&p=4&high_quality=1&danmaku=0",
+	"time": "18:33"
+}, {
+	"name": "父工程Project空间新建",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168558&p=5&high_quality=1&danmaku=0",
+	"time": "12:34"
+}, {
+	"name": "父工程pom文件",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168618&p=6&high_quality=1&danmaku=0",
+	"time": "6:6"
+}, {
+	"name": "复习DependencyManagement和Dependencies",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168688&p=7&high_quality=1&danmaku=0",
+	"time": "7:45"
+}, {
+	"name": "支付模块构建(上)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168864&p=8&high_quality=1&danmaku=0",
+	"time": "15:5"
+}, {
+	"name": "支付模块构建(中)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169204&p=9&high_quality=1&danmaku=0",
+	"time": "35:1"
+}, {
+	"name": "支付模块构建(下)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168853&p=10&high_quality=1&danmaku=0",
+	"time": "9:45"
+}, {
+	"name": "热部署Devtools",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168818&p=11&high_quality=1&danmaku=0",
+	"time": "6:35"
+}, {
+	"name": "消费者订单模块(上)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169110&p=12&high_quality=1&danmaku=0",
+	"time": "20:20"
+}, {
+	"name": "消费者订单模块(下)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168980&p=13&high_quality=1&danmaku=0",
+	"time": "10:21"
+}, {
+	"name": "工程重构",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168997&p=14&high_quality=1&danmaku=0",
+	"time": "9:40"
+}, {
+	"name": "Eureka基础知识",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160168994&p=15&high_quality=1&danmaku=0",
+	"time": "11:26",
+    "chapterName": "Eureka"
+}, {
+	"name": "EurekaServer服务端安装",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169196&p=16&high_quality=1&danmaku=0",
+	"time": "9:10"
+}, {
+	"name": "支付微服务8001入驻进eurekaServer",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169171&p=17&high_quality=1&danmaku=0",
+	"time": "9:17"
+}, {
+	"name": "订单微服务80入驻进eurekaServer",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169140&p=18&high_quality=1&danmaku=0",
+	"time": "6:26"
+}, {
+	"name": "Eureka集群原理说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169200&p=19&high_quality=1&danmaku=0",
+	"time": "6:51"
+}, {
+	"name": "Eureka集群环境构建",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169222&p=20&high_quality=1&danmaku=0",
+	"time": "9:14"
+}, {
+	"name": "订单支付两微服务注册进Eureka集群",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169413&p=21&high_quality=1&danmaku=0",
+	"time": "5:34"
+}, {
+	"name": "支付微服务集群配置",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169443&p=22&high_quality=1&danmaku=0",
+	"time": "21:6"
+}, {
+	"name": "actuator微服务信息完善",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169543&p=23&high_quality=1&danmaku=0",
+	"time": "7:48"
+}, {
+	"name": "服务发现Discovery",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169575&p=24&high_quality=1&danmaku=0",
+	"time": "11:56"
+}, {
+	"name": "Eureka自我保护理论知识",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169637&p=25&high_quality=1&danmaku=0",
+	"time": "8:56"
+}, {
+	"name": "怎么禁止自我保护",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169690&p=26&high_quality=1&danmaku=0",
+	"time": "10:6"
+}, {
+	"name": "Eureka停更说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169752&p=27&high_quality=1&danmaku=0",
+	"time": "3:2"
+}, {
+	"name": "支付服务注册进zookeeper",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169769&p=28&high_quality=1&danmaku=0",
+	"time": "18:43"
+}, {
+	"name": "临时还是持久节点",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169875&p=29&high_quality=1&danmaku=0",
+	"time": "5:41"
+}, {
+	"name": "订单服务注册进zookeeper",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169897&p=30&high_quality=1&danmaku=0",
+	"time": "10:35"
+}, {
+	"name": "Consul简介",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169948&p=31&high_quality=1&danmaku=0",
+	"time": "5:48",
+    "chapterName": "Consul"
+}, {
+	"name": "安装并运行Consul",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160169982&p=32&high_quality=1&danmaku=0",
+	"time": "3:47"
+}, {
+	"name": "服务提供者注册进Consul",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170018&p=33&high_quality=1&danmaku=0",
+	"time": "7:1"
+}, {
+	"name": "服务消费者注册进Consul",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170063&p=34&high_quality=1&danmaku=0",
+	"time": "6:11"
+}, {
+	"name": "三个注册中心异同点",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170090&p=35&high_quality=1&danmaku=0",
+	"time": "10:43"
+}, {
+	"name": "Ribbon入门介绍",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170131&p=36&high_quality=1&danmaku=0",
+	"time": "9:15",
+    "chapterName": "Ribbon"
+}, {
+	"name": "Ribbon的负载均衡和Rest调用",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170165&p=37&high_quality=1&danmaku=0",
+	"time": "13:14"
+}, {
+	"name": "Ribbon默认自带的负载规则",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170223&p=38&high_quality=1&danmaku=0",
+	"time": "4:2"
+}, {
+	"name": "Ribbon负载规则替换",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170242&p=39&high_quality=1&danmaku=0",
+	"time": "6:20"
+}, {
+	"name": "Ribbon默认负载轮训算法原理",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170274&p=40&high_quality=1&danmaku=0",
+	"time": "8:48"
+}, {
+	"name": "RoundRobinRule源码分析",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170305&p=41&high_quality=1&danmaku=0",
+	"time": "12:39"
+}, {
+	"name": "Ribbon之手写轮询算法",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170364&p=42&high_quality=1&danmaku=0",
+	"time": "27:33"
+}, {
+	"name": "OpenFeign是什么",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170528&p=43&high_quality=1&danmaku=0",
+	"time": "8:42",
+    "chapterName": "OpenFeign"
+}, {
+	"name": "OpenFeign服务调用",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170562&p=44&high_quality=1&danmaku=0",
+	"time": "16:24"
+}, {
+	"name": "OpenFeign超时控制",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170645&p=45&high_quality=1&danmaku=0",
+	"time": "10:53"
+}, {
+	"name": "OpenFeign日志增强",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170684&p=46&high_quality=1&danmaku=0",
+	"time": "4:46"
+}, {
+	"name": "Hystrix是什么",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170715&p=47&high_quality=1&danmaku=0",
+	"time": "5:56",
+    "chapterName": "Hystrix"
+}, {
+	"name": "Hystrix停更进维",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170742&p=48&high_quality=1&danmaku=0",
+	"time": "5:3"
+}, {
+	"name": "Hystrix的服务降级熔断限流概念初讲",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170773&p=49&high_quality=1&danmaku=0",
+	"time": "7:0"
+}, {
+	"name": "Hystrix支付微服务构建",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170800&p=50&high_quality=1&danmaku=0",
+	"time": "14:58"
+}, {
+	"name": "JMeter高并发压测后卡顿",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170872&p=51&high_quality=1&danmaku=0",
+	"time": "8:10"
+}, {
+	"name": "订单微服务调用支付服务出现卡顿",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170905&p=52&high_quality=1&danmaku=0",
+	"time": "12:48"
+}, {
+	"name": "降级容错解决的维度要求",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170967&p=53&high_quality=1&danmaku=0",
+	"time": "4:28"
+}, {
+	"name": "Hystrix之服务降级支付侧fallback",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160170988&p=54&high_quality=1&danmaku=0",
+	"time": "12:13"
+}, {
+	"name": "Hystrix之服务降级订单侧fallback",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171053&p=55&high_quality=1&danmaku=0",
+	"time": "12:6"
+}, {
+	"name": "Hystrix之全局服务降级DefaultProperties",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171120&p=56&high_quality=1&danmaku=0",
+	"time": "7:35"
+}, {
+	"name": "Hystrix之通配服务降级FeignFallback",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171160&p=57&high_quality=1&danmaku=0",
+	"time": "10:48"
+}, {
+	"name": "Hystrix之服务熔断理论",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171194&p=58&high_quality=1&danmaku=0",
+	"time": "8:36"
+}, {
+	"name": "Hystrix之服务熔断案例(上)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171225&p=59&high_quality=1&danmaku=0",
+	"time": "11:59"
+}, {
+	"name": "Hystrix之服务熔断案例(下)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171295&p=60&high_quality=1&danmaku=0",
+	"time": "5:57"
+}, {
+	"name": "Hystrix之服务熔断总结",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171426&p=61&high_quality=1&danmaku=0",
+	"time": "6:25"
+}, {
+	"name": "Hystrix工作流程最后总结",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171464&p=62&high_quality=1&danmaku=0",
+	"time": "9:9"
+}, {
+	"name": "Hystrix图形化Dashboard搭建",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171496&p=63&high_quality=1&danmaku=0",
+	"time": "5:39"
+}, {
+	"name": "Hystrix图形化Dashboard监控实战",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171517&p=64&high_quality=1&danmaku=0",
+	"time": "9:52"
+}, {
+	"name": "GateWay和Zuul课程说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171600&p=65&high_quality=1&danmaku=0",
+	"time": "4:45",
+    "chapterName": "GateWay"
+}, {
+	"name": "GateWay是什么",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171615&p=66&high_quality=1&danmaku=0",
+	"time": "9:56"
+}, {
+	"name": "GateWay非阻塞异步模型",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171654&p=67&high_quality=1&danmaku=0",
+	"time": "8:1"
+}, {
+	"name": "Gateway工作流程",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171706&p=68&high_quality=1&danmaku=0",
+	"time": "6:6"
+}, {
+	"name": "Gateway9527搭建",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171762&p=69&high_quality=1&danmaku=0",
+	"time": "11:59"
+}, {
+	"name": "Gateway配置路由的两种方式",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171828&p=70&high_quality=1&danmaku=0",
+	"time": "11:59"
+}, {
+	"name": "GateWay配置动态路由",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171902&p=71&high_quality=1&danmaku=0",
+	"time": "7:21"
+}, {
+	"name": "GateWay常用的Predicate",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160171942&p=72&high_quality=1&danmaku=0",
+	"time": "20:8"
+}, {
+	"name": "GateWay的Filter",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172066&p=73&high_quality=1&danmaku=0",
+	"time": "12:10"
+}, {
+	"name": "Config分布式配置中心介绍",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172129&p=74&high_quality=1&danmaku=0",
+	"time": "10:50",
+    "chapterName": "Config"
+}, {
+	"name": "Config配置总控中心搭建",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172164&p=75&high_quality=1&danmaku=0",
+	"time": "15:20"
+}, {
+	"name": "Config客户端配置与测试",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172254&p=76&high_quality=1&danmaku=0",
+	"time": "16:47"
+}, {
+	"name": "Config动态刷新之手动版",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172353&p=77&high_quality=1&danmaku=0",
+	"time": "12:50"
+}, {
+	"name": "Bus消息总线是什么",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172409&p=78&high_quality=1&danmaku=0",
+	"time": "7:55",
+    "chapterName": "Bus消息总线"
+}, {
+	"name": "Bus之RabbitMQ环境配置",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172483&p=79&high_quality=1&danmaku=0",
+	"time": "3:56"
+}, {
+	"name": "Bus动态刷新全局广播的设计思想和选型",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172512&p=80&high_quality=1&danmaku=0",
+	"time": "7:48"
+}, {
+	"name": "Bus动态刷新全局广播配置实现",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172573&p=81&high_quality=1&danmaku=0",
+	"time": "14:13"
+}, {
+	"name": "Bus动态刷新定点通知",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172679&p=82&high_quality=1&danmaku=0",
+	"time": "5:41"
+}, {
+	"name": "Stream为什么被引入",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172711&p=83&high_quality=1&danmaku=0",
+	"time": "7:51",
+    "chapterName": "Stream"
+}, {
+	"name": "Stream是什么及Binder介绍",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172753&p=84&high_quality=1&danmaku=0",
+	"time": "6:20"
+}, {
+	"name": "Stream的设计思想",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172790&p=85&high_quality=1&danmaku=0",
+	"time": "7:19"
+}, {
+	"name": "Stream编码常用注解简介",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172820&p=86&high_quality=1&danmaku=0",
+	"time": "5:3"
+}, {
+	"name": "Stream消息驱动之生产者",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172851&p=87&high_quality=1&danmaku=0",
+	"time": "17:4"
+}, {
+	"name": "Stream消息驱动之消费者",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160172975&p=88&high_quality=1&danmaku=0",
+	"time": "11:1"
+}, {
+	"name": "Stream之消息重复消费",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173058&p=89&high_quality=1&danmaku=0",
+	"time": "8:27"
+}, {
+	"name": "Stream之group解决消息重复消费",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173086&p=90&high_quality=1&danmaku=0",
+	"time": "7:56"
+}, {
+	"name": "Stream之消息持久化",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173121&p=91&high_quality=1&danmaku=0",
+	"time": "3:56"
+}, {
+	"name": "Sleuth是什么",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173155&p=92&high_quality=1&danmaku=0",
+	"time": "4:25",
+    "chapterName": "Sleuth"
+}, {
+	"name": "Sleuth之zipkin搭建安装",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173196&p=93&high_quality=1&danmaku=0",
+	"time": "6:13"
+}, {
+	"name": "Sleuth链路监控展现",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173229&p=94&high_quality=1&danmaku=0",
+	"time": "8:28"
+}, {
+	"name": "Cloud Alibaba简介",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173303&p=95&high_quality=1&danmaku=0",
+	"time": "16:26"
+}, {
+	"name": "Nacos简介和下载",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173413&p=96&high_quality=1&danmaku=0",
+	"time": "7:16",
+    "chapterName": "Nacos"
+}, {
+	"name": "Nacos安装",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173456&p=97&high_quality=1&danmaku=0",
+	"time": "3:3"
+}, {
+	"name": "Nacos之服务提供者注册",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173478&p=98&high_quality=1&danmaku=0",
+	"time": "17:27"
+}, {
+	"name": "Nacos之服务消费者注册和负载",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173584&p=99&high_quality=1&danmaku=0",
+	"time": "10:11"
+}, {
+	"name": "Nacos服务注册中心对比提升",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173650&p=100&high_quality=1&danmaku=0",
+	"time": "6:52"
+}, {
+	"name": "Nacos之服务配置中心",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173679&p=101&high_quality=1&danmaku=0",
+	"time": "20:2"
+}, {
+	"name": "Nacos之命名空间分组和DataID三者关系",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173798&p=102&high_quality=1&danmaku=0",
+	"time": "6:6"
+}, {
+	"name": "Nacos之DataID配置",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173818&p=103&high_quality=1&danmaku=0",
+	"time": "6:30"
+}, {
+	"name": "Nacos之Group分组方案",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173849&p=104&high_quality=1&danmaku=0",
+	"time": "4:49"
+}, {
+	"name": "Nacos之Namespace空间方案",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173866&p=105&high_quality=1&danmaku=0",
+	"time": "9:24"
+}, {
+	"name": "Nacos集群_架构说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173911&p=106&high_quality=1&danmaku=0",
+	"time": "11:28"
+}, {
+	"name": "Nacos持久化切换配置",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160173977&p=107&high_quality=1&danmaku=0",
+	"time": "8:45"
+}, {
+	"name": "Nacos之Linux版本安装",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174017&p=108&high_quality=1&danmaku=0",
+	"time": "5:16"
+}, {
+	"name": "Nacos集群配置(上)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174178&p=109&high_quality=1&danmaku=0",
+	"time": "19:34"
+}, {
+	"name": "Nacos集群配置(下)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174270&p=110&high_quality=1&danmaku=0",
+	"time": "12:25"
+}, {
+	"name": "Sentinel是什么",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174326&p=111&high_quality=1&danmaku=0",
+	"time": "7:3",
+    "chapterName": "Sentinel"
+}, {
+	"name": "Sentinel下载安装运行",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174355&p=112&high_quality=1&danmaku=0",
+	"time": "6:13"
+}, {
+	"name": "Sentinel初始化监控",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174384&p=113&high_quality=1&danmaku=0",
+	"time": "7:54"
+}, {
+	"name": "Sentinel流控规则简介",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174437&p=114&high_quality=1&danmaku=0",
+	"time": "3:4"
+}, {
+	"name": "Sentinel流控-QPS直接失败",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174452&p=115&high_quality=1&danmaku=0",
+	"time": "6:27"
+}, {
+	"name": "Sentinel流控-线程数直接失败",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174488&p=116&high_quality=1&danmaku=0",
+	"time": "6:7"
+}, {
+	"name": "Sentinel流控-关联",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174522&p=117&high_quality=1&danmaku=0",
+	"time": "7:14"
+}, {
+	"name": "Sentinel流控-预热",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174562&p=118&high_quality=1&danmaku=0",
+	"time": "8:14"
+}, {
+	"name": "Sentinel流控-排队等待",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174614&p=119&high_quality=1&danmaku=0",
+	"time": "5:32"
+}, {
+	"name": "Sentinel降级简介",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174655&p=120&high_quality=1&danmaku=0",
+	"time": "4:48"
+}, {
+	"name": "Sentinel降级-RT",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174683&p=121&high_quality=1&danmaku=0",
+	"time": "7:29"
+}, {
+	"name": "Sentinel降级-异常比例",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174719&p=122&high_quality=1&danmaku=0",
+	"time": "7:19"
+}, {
+	"name": "Sentinel降级-异常数",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174758&p=123&high_quality=1&danmaku=0",
+	"time": "4:16"
+}, {
+	"name": "Sentinel热点key(上)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174798&p=124&high_quality=1&danmaku=0",
+	"time": "17:13"
+}, {
+	"name": "Sentinel热点key(下)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174884&p=125&high_quality=1&danmaku=0",
+	"time": "10:59"
+}, {
+	"name": "Sentinel系统规则",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174931&p=126&high_quality=1&danmaku=0",
+	"time": "7:38"
+}, {
+	"name": "SentinelResource配置(上)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160174979&p=127&high_quality=1&danmaku=0",
+	"time": "10:47"
+}, {
+	"name": "SentinelResource配置(中)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175066&p=128&high_quality=1&danmaku=0",
+	"time": "7:47"
+}, {
+	"name": "SentinelResource配置(下)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175099&p=129&high_quality=1&danmaku=0",
+	"time": "4:16"
+}, {
+	"name": "Sentinel服务熔断Ribbon环境预说",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175123&p=130&high_quality=1&danmaku=0",
+	"time": "8:58"
+}, {
+	"name": "Sentinel服务熔断无配置",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175185&p=131&high_quality=1&danmaku=0",
+	"time": "4:22"
+}, {
+	"name": "Sentinel服务熔断只配置fallback",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175211&p=132&high_quality=1&danmaku=0",
+	"time": "4:12"
+}, {
+	"name": "Sentinel服务熔断只配置blockHandler",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175236&p=133&high_quality=1&danmaku=0",
+	"time": "4:10"
+}, {
+	"name": "Sentinel服务熔断fallback和blockHandler都配置",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175275&p=134&high_quality=1&danmaku=0",
+	"time": "4:47"
+}, {
+	"name": "Sentinel服务熔断exceptionsToIgnore",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175308&p=135&high_quality=1&danmaku=0",
+	"time": "2:34"
+}, {
+	"name": "Sentinel服务熔断OpenFeign",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175322&p=136&high_quality=1&danmaku=0",
+	"time": "9:50"
+}, {
+	"name": "Sentinel持久化规则",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175371&p=137&high_quality=1&danmaku=0",
+	"time": "10:31"
+}, {
+	"name": "分布式事务问题由来",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175419&p=138&high_quality=1&danmaku=0",
+	"time": "8:28"
+}, {
+	"name": "Seata术语",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175460&p=139&high_quality=1&danmaku=0",
+	"time": "13:28",
+    "chapterName": "Seata"
+}, {
+	"name": "Seata-Server安装",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175522&p=140&high_quality=1&danmaku=0",
+	"time": "13:32"
+}, {
+	"name": "Seata业务数据库准备",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175594&p=141&high_quality=1&danmaku=0",
+	"time": "9:27"
+}, {
+	"name": "Seata之Order-Module配置搭建",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175627&p=142&high_quality=1&danmaku=0",
+	"time": "10:59"
+}, {
+	"name": "Seata之Order-Module撸码(上)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175675&p=143&high_quality=1&danmaku=0",
+	"time": "18:36"
+}, {
+	"name": "Seata之Order-Module撸码(下)",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175767&p=144&high_quality=1&danmaku=0",
+	"time": "10:5"
+}, {
+	"name": "Seata之Storage-Module说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175836&p=145&high_quality=1&danmaku=0",
+	"time": "9:20"
+}, {
+	"name": "Seata之Account-Module说明",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175880&p=146&high_quality=1&danmaku=0",
+	"time": "3:14"
+}, {
+	"name": "Seata之@GlobalTransactional验证",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175898&p=147&high_quality=1&danmaku=0",
+	"time": "13:30"
+}, {
+	"name": "Seata之原理简介",
+	"url": "//player.bilibili.com/player.html?aid=93813318&bvid=BV18E411x7eT&cid=160175977&p=148&high_quality=1&danmaku=0",
+	"time": "33:46"
+}]
